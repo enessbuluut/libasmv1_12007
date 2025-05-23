@@ -1,0 +1,3 @@
+﻿  test.c
+strcat_s.obj : error LNK2005: _my_strcat_s zaten test.obj üzerinde tanımlandı
+C:\Users\enes\Source\Repos\my_strcat_sv1\Debug\my_strcat_sv1.exe : fatal error LNK1169: Bir veya daha fazla birden çok kez tanımlanmış sembol bulundu

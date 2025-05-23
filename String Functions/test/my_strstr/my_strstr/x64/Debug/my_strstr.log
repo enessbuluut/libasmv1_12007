@@ -1,0 +1,32 @@
+﻿  test.c
+C:\Users\enes\Source\Repos\my_strstr\my_strstr\test.c(11,9): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'const char *' - 'int'
+C:\Users\enes\Source\Repos\my_strstr\my_strstr\test.c(14,14): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'const char *' - 'int'
+C:\Users\enes\Source\Repos\my_strstr\my_strstr\test.c(18,16): warning C4477: 'printf' : '%ld' biçim dizesi 'long' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü '__int64'
+      C:\Users\enes\Source\Repos\my_strstr\my_strstr\test.c(18,16):
+      biçim dizesinde '%lld' kullanmayı düşünün
+      C:\Users\enes\Source\Repos\my_strstr\my_strstr\test.c(18,16):
+      biçim dizesinde '%Id' kullanmayı düşünün
+      C:\Users\enes\Source\Repos\my_strstr\my_strstr\test.c(18,16):
+      biçim dizesinde '%I64d' kullanmayı düşünün
+  
+C:\Users\enes\Source\Repos\my_strstr\my_strstr\test.c(25,9): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'const char *' - 'int'
+C:\Users\enes\Source\Repos\my_strstr\my_strstr\test.c(28,14): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'const char *' - 'int'
+C:\Users\enes\Source\Repos\my_strstr\my_strstr\test.c(32,16): warning C4477: 'printf' : '%ld' biçim dizesi 'long' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü '__int64'
+      C:\Users\enes\Source\Repos\my_strstr\my_strstr\test.c(32,16):
+      biçim dizesinde '%lld' kullanmayı düşünün
+      C:\Users\enes\Source\Repos\my_strstr\my_strstr\test.c(32,16):
+      biçim dizesinde '%Id' kullanmayı düşünün
+      C:\Users\enes\Source\Repos\my_strstr\my_strstr\test.c(32,16):
+      biçim dizesinde '%I64d' kullanmayı düşünün
+  
+C:\Users\enes\Source\Repos\my_strstr\my_strstr\test.c(39,9): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'const char *' - 'int'
+C:\Users\enes\Source\Repos\my_strstr\my_strstr\test.c(42,14): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'const char *' - 'int'
+C:\Users\enes\Source\Repos\my_strstr\my_strstr\test.c(46,16): warning C4477: 'printf' : '%ld' biçim dizesi 'long' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü '__int64'
+      C:\Users\enes\Source\Repos\my_strstr\my_strstr\test.c(46,16):
+      biçim dizesinde '%lld' kullanmayı düşünün
+      C:\Users\enes\Source\Repos\my_strstr\my_strstr\test.c(46,16):
+      biçim dizesinde '%Id' kullanmayı düşünün
+      C:\Users\enes\Source\Repos\my_strstr\my_strstr\test.c(46,16):
+      biçim dizesinde '%I64d' kullanmayı düşünün
+  
+strstr.obj : fatal error LNK1112: Modül makine türü 'x86' hedef makine türü 'x64' ile çakışıyor

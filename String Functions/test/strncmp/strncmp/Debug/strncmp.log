@@ -1,0 +1,2 @@
+﻿test.obj : error LNK2019: çözümlenmemiş dış sembol __strncmp için _main işlevinde başvuruldu
+C:\Users\enes\Source\Repos\strncmp\Debug\strncmp.exe : fatal error LNK1120: 1 çözümlenmemiş dışlar
