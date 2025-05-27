@@ -1,2 +1,0 @@
-﻿  test.c
-my_strcpy_s.obj : fatal error LNK1112: Modül makine türü 'x86' hedef makine türü 'x64' ile çakışıyor
